@@ -1,0 +1,8 @@
+
+Key Findings:
+1. LSTM captures temporal dependencies better than ARIMA.
+2. RF/XGBoost benefit from lag + exogenous features.
+3. ARIMA struggles with non-linear patterns.
+
+Conclusion:
+Hybrid and deep learning approaches are better suited for renewable energy forecasting with complex dynamics.
